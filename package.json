@@ -1,0 +1,21 @@
+{
+  "name": "amxmodx-plugin-kzrecords",
+  "version": "1.0.0",
+  "description": "Handle player kz records via SQL",
+  "scripts": {
+    "build": "node build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenub/amxmodx-plugin-records.git"
+  },
+  "author": "Joseph Chrzan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenub/amxmodx-plugin-records/issues"
+  },
+  "homepage": "https://github.com/tenub/amxmodx-plugin-records#readme",
+  "dependencies": {
+    "amxmodx-build": "tenub/amxmodx-build"
+  }
+}
